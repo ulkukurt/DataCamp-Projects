@@ -5,3 +5,4 @@ In this repository, there are projects in [my DataCamp workspace](https://www.da
 3. Mobile Games A/B Testing with Cookie Cats - Analyze an A/B test from the popular mobile puzzle game, Cookie Cats. 
 4. Native Bees: Deep Learning with Images - Build a deep learning model that can automatically detect honey bees and bumble bees in images.
 5. Give Life: Predict Blood Donations - Build a binary classifier to predict if a blood donor is likely to donate again.
+6. Risk and Returns - Use pandas to calculate and compare profitability and risk of different investments using the Sharpe.
