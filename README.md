@@ -6,3 +6,4 @@ In this repository, there are projects in [my DataCamp workspace](https://www.da
 4. Native Bees: Deep Learning with Images - Build a deep learning model that can automatically detect honey bees and bumble bees in images.
 5. Give Life: Predict Blood Donations - Build a binary classifier to predict if a blood donor is likely to donate again.
 6. Risk and Returns - Use pandas to calculate and compare profitability and risk of different investments using the Sharpe.
+7. Classify Song Genres from Audio Data - Rock or rap? Apply machine learning methods in Python to classify songs into genres.
