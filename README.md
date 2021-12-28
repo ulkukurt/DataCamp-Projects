@@ -7,6 +7,7 @@ In this repository, there are projects in [my DataCamp workspace](https://www.da
 5. Give Life: Predict Blood Donations - Build a binary classifier to predict if a blood donor is likely to donate again.
 6. Risk and Returns - Use pandas to calculate and compare profitability and risk of different investments using the Sharpe.
 7. Classify Song Genres from Audio Data - Rock or rap? Apply machine learning methods in Python to classify songs into genres.
+8. Predicting Credit Card Approvals - Build a machine learning model to predict if a credit card application will get approved.
 
 # DataCamp-Projects with SQL
 1. What and Where are the World's Oldest Businesses - Using joining techniques to discover the oldest businesses in the world.
