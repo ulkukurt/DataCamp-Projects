@@ -8,6 +8,7 @@ In this repository, there are projects in [my DataCamp workspace](https://www.da
 6. Risk and Returns - Use pandas to calculate and compare profitability and risk of different investments using the Sharpe.
 7. Classify Song Genres from Audio Data - Rock or rap? Apply machine learning methods in Python to classify songs into genres.
 8. Predicting Credit Card Approvals - Build a machine learning model to predict if a credit card application will get approved.
+9. Who's Tweeting? Trump or Trudeau? - Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting!
 
 # DataCamp-Projects with SQL
 1. What and Where are the World's Oldest Businesses - Using joining techniques to discover the oldest businesses in the world.
