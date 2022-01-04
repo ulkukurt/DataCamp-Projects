@@ -9,6 +9,7 @@ In this repository, there are projects in [my DataCamp workspace](https://www.da
 7. Classify Song Genres from Audio Data - Rock or rap? Apply machine learning methods in Python to classify songs into genres.
 8. Predicting Credit Card Approvals - Build a machine learning model to predict if a credit card application will get approved.
 9. Who's Tweeting? Trump or Trudeau? - Build a machine learning classifier that knows whether President Trump or Prime Minister Trudeau is tweeting!
+10. Comparing Search Interest with Google Trends - Manipulate and plot time series data from Google Trends to analyze changes in search interest over time.
 
 # DataCamp-Projects with SQL
 1. What and Where are the World's Oldest Businesses - Using joining techniques to discover the oldest businesses in the world.
